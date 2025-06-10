@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div className="px-20 md:px-28">
+    <div className="md:px-28">
       <Navbar />
       <Hero />
       <HeadLineCards />
